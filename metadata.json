@@ -1,0 +1,7 @@
+{
+  "name": "Fit muscle - Personal Trainer Pro",
+  "description": "Uma plataforma completa para personal trainers gerenciarem alunos, criarem treinos personalizados por IA e acompanharem o progresso semanal com foco em grupos musculares.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
